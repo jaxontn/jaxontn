@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @jaxontn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in alot of things
+- 🌱 I’m currently majoring in Software Engineering as my degree
+- 💞️ I’m looking to collaborate on software-related projects that touches on finance, music, entertainment, and health.
+     I may be interested in other things too.
+- 📫 How to reach me? Just email me at jaxontn@protonmail.com
 
 <!---
 jaxontn/jaxontn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
