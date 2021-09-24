@@ -3,7 +3,7 @@
 - 🌱 I’m currently majoring in Software Engineering as my degree
 - 💞️ I’m looking to collaborate on software-related projects that touches on social, finance, music, entertainment, health, and more.
      I may be interested in other things too.
-- 📫 How to reach me? Just email me at jaxontn@protonmail.com
+- 📫 How to reach me? Just email me at jaxontn.enquire@gmail.com
 
 <!---
 jaxontn/jaxontn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
