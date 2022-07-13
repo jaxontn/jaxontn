@@ -5,6 +5,7 @@
      I may be interested in other things too.
 - 📫 How to reach me? Just email me at jaxontn.enquire@gmail.com
 - Web Development Freelance, Huski Social App Founder
+- LinkedIn profile: https://www.linkedin.com/in/jaxontn/
 
 <!---
 jaxontn/jaxontn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
