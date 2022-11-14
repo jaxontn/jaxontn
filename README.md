@@ -4,7 +4,7 @@
 - 👀 I’m looking to collaborate on software-related projects that touches on productivity, social, finance, music, entertainment, health, and more.
      I may be interested in other things too.
 - 📫 How to reach me? Just email me at jaxontn.enquire@gmail.com
-- Web Development Freelance, Huski Social App Founder
+- Web Development Freelance
 - LinkedIn profile: https://www.linkedin.com/in/jaxontn/
 
 <!---
