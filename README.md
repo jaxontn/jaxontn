@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaxontn
+- 👋 Hi, I’m @jaxontn - founded agenixlabs, mindbolt
 - 👀 Interested in many things
 - 🌱 Full-stack software developer
 - 👀 Open to collaborate on software-related projects.
